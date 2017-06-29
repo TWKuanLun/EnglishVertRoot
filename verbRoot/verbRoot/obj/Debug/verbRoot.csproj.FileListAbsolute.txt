@@ -1,0 +1,6 @@
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\bin\Debug\verbRoot.exe.config
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\bin\Debug\verbRoot.exe
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\bin\Debug\verbRoot.pdb
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\obj\Debug\verbRoot.csprojResolveAssemblyReference.cache
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\obj\Debug\verbRoot.exe
+d:\users\bone\documents\visual studio 2015\Projects\verbRoot\verbRoot\obj\Debug\verbRoot.pdb
